@@ -10,7 +10,8 @@ An enhanced version of Ganyu Windows mouse cursor by @Afuoru / @Afuoru 的甘雨
 - 适当缩小文字选择工具在64x64及48x48的大小，但保留32x32下的大小，适应使用指针缩放功能的场景
 
 ## Credit
-This cursor set was originally made by @Afuoru@Afuoru.
+This cursor set was originally made by @Afuoru.
+
 原作者@Afuoru。
 
 BiliBili: [Afuoru](https://space.bilibili.com/343092366)
