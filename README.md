@@ -3,6 +3,9 @@ An enhanced version of Ganyu Windows mouse cursor by @Afuoru / @Afuoru 的甘雨
 
 针对低DPI缩放及低指针缩放系数的优化版。
 
+- **NoJump： 指针热点与头像相对位置固定的版本**
+- **CharacterMaximized：头像尽可能大**
+
 ## Changelog
 - 增加指针饱和度及阴影，优化亮背景下的可用性
 - 缩小低分辨率下的指针大小，使人物头像观感更好
